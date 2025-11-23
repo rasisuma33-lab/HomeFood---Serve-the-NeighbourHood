@@ -1,0 +1,8 @@
+{
+  "name": "Copy of HomeMade Union",
+  "description": "A community-first food app connecting home chefs with neighbors for fresh, homemade meals.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
